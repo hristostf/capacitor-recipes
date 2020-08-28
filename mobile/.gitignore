@@ -12,6 +12,7 @@
 /build
 
 /.gradle
+.gradle
 
 # misc
 .DS_Store
