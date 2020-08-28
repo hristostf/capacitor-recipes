@@ -23,5 +23,9 @@ npm i
 # run optimized production build
 npm run build -- --prod
 
+# android x support
+npm install jetifier
+npx jetify
+
 # copy the web assets to the native projects and updates the native plugins and dependencies based in package.json
 npx cap sync
