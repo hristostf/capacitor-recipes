@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69911524852",
+    "firebase_url": "https://capacitor-recipes.firebaseio.com",
+    "project_id": "capacitor-recipes",
+    "storage_bucket": "capacitor-recipes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69911524852:android:1b85816d46c6b5c4ea35a1",
+        "android_client_info": {
+          "package_name": "com.melon.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69911524852-htp9rjai6ip9kftsik8pugm4hgjsagpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVGSlX0t2S5Ag5ejm3cyzvgU6S31Bh-OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69911524852-htp9rjai6ip9kftsik8pugm4hgjsagpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

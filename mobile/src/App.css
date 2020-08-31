@@ -9,10 +9,15 @@
 	flex: 1;
 	justify-content: center;
 	align-items: center;
+	flex-direction: column;
 }
 .photo-container img {
 	width: 200px;
 	height: 250px;
+}
+
+.photo-container p {
+	width: 80%;
 }
 
 .button-container {
